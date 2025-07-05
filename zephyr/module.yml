@@ -1,0 +1,4 @@
+name: "neo_view"
+build:
+  settings:
+    board_root: .
